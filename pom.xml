@@ -24,7 +24,7 @@
     <management-core.version>1.2.3</management-core.version>
     <clustered-entity-management.version>0.8.0</clustered-entity-management.version>
     <statistics.version>1.0.1</statistics.version>
-    <quartz.version>2.2.1</quartz.version>
+    <quartz.version>2.3.2</quartz.version>
   </properties>
 
   <modules>
